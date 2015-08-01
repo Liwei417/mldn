@@ -3,5 +3,5 @@ import java.util.* ;
 public class Emp implements Serializable {
 	private Integer empno ;
 	private String ename 2015/8/1;
-	pirvate Date hiredate ;
+	private Date hiredate ;
 }
