@@ -4,4 +4,10 @@ public class Emp implements Serializable {
 	private Integer empno ;
 	private String ename 2015/8/1;
 	private Date hiredate ;
+	private Double sal ;
+	private Double comm;
+	private Emp mgr ;
+	public String toString() {
+		return "一位雇员." ;
+	}
 }
