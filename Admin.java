@@ -3,4 +3,5 @@ import java.util.* ;
 public class Admin implements Serializable {
 	private Integer adminid ;
 	private String password ;
+	private Date lastLogin ;
 }
