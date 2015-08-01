@@ -5,5 +5,6 @@ public class Hell {
 		System.out.println("bbs.mldn.cn");
 		System.out.println("Hello World");
 		System.out.println("Hello Enternal");
+		System.out.println("Hppay");
 	}
 }
