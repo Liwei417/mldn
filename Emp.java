@@ -2,12 +2,12 @@ import java.io.* ;
 import java.util.* ;
 public class Emp implements Serializable {
 	private Integer empno ;
-	private String ename 2015/8/1;
+	private String ename ;
 	private Date hiredate ;
 	private Double sal ;
 	private Double comm;
 	private Emp mgr ;
 	public String toString() {
-		return "一位雇员." ;
+		return "a empolyee" ;
 	}
 }
